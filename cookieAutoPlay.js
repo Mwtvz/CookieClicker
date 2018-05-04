@@ -6,7 +6,7 @@ AutoPlay.version = "2.0"
 AutoPlay.gameVersion = "2.0045";
 AutoPlay.robotName="Automated ";
 AutoPlay.delay=0;
-AutoPlay.night=false;
+AutoPlay.night=true;
 AutoPlay.finished=false;
 
 AutoPlay.run = function () {
